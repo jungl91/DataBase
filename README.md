@@ -1,4 +1,4 @@
-# DataBase
+# Ultrasound DataBase
 Database of Benign and Malignant Solid lesions on breast ultrasound images.
 
 The dataset included 105 ultrasound images of cytologically and/or histologically proven 50 benign and 55 malignant non-cystic lesions. 
